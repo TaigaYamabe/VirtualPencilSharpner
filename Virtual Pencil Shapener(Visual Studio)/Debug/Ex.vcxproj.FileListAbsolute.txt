@@ -1,0 +1,6 @@
+C:\Users\yoshi\Downloads\sample_cm\sample_cm\Debug\Ex.exe
+C:\Users\yoshi\Desktop\sample_cm_Two\Debug\Ex.exe
+C:\Users\yoshi\Desktop\sample_cm_sensor2\Debug\Ex.exe
+C:\Users\yoshi\Desktop\sample_cm_UnitySend\Debug\Ex.exe
+C:\Users\yoshi\Desktop\sample_cm_UnitySend-1\Debug\Ex.exe
+C:\Users\t_yam\OneDrive\デスクトップ\sample_cm_UnitySend_ENC\Debug\Ex.exe

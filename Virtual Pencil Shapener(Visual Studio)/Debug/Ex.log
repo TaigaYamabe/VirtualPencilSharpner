@@ -1,0 +1,9 @@
+﻿cl : コマンド ライン warning D9035: オプション 'Gm' の使用は現在推奨されていません。今後のバージョンからは削除されます。
+  Ex.cpp
+C:\Users\t_yam\OneDrive\デスクトップ\sample_cm_UnitySend_ENC\Ex.cpp(69,32): warning C4474: 'printf': 書式文字列に渡された引数の数が多すぎます
+C:\Users\t_yam\OneDrive\デスクトップ\sample_cm_UnitySend_ENC\Ex.cpp(69,32): message : プレースホルダーとそのパラメーターには 0 の可変個引数が必要ですが、2 が指定されています。
+C:\Users\t_yam\OneDrive\デスクトップ\sample_cm_UnitySend_ENC\Ex.cpp(169,21): warning C4244: '=': 'double' から 'float' への変換です。データが失われる可能性があります。
+C:\Users\t_yam\OneDrive\デスクトップ\sample_cm_UnitySend_ENC\Ex.cpp(197,31): warning C4244: '=': 'long' から 'float' への変換です。データが失われる可能性があります。
+C:\Users\t_yam\OneDrive\デスクトップ\sample_cm_UnitySend_ENC\Ex.cpp(234,29): warning C4244: '引数': 'float' から 'int' への変換です。データが失われる可能性があります。
+C:\Users\t_yam\OneDrive\デスクトップ\sample_cm_UnitySend_ENC\Ex.cpp(234,23): warning C4244: '引数': 'float' から 'int' への変換です。データが失われる可能性があります。
+  Ex.vcxproj -> C:\Users\t_yam\OneDrive\デスクトップ\sample_cm_UnitySend_ENC\Debug\Ex.exe
