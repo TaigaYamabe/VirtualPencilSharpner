@@ -1,0 +1,5 @@
+sceneSetups:
+- path: Assets/Virtual pencil sharpener.unity
+  isLoaded: 1
+  isActive: 1
+  isSubScene: 0
